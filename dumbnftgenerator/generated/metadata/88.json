@@ -1,0 +1,21 @@
+{
+    "image": "ipfs://{*cid*}/88",
+    "attributes": [
+        {
+            "trait_type": "Eyebrows",
+            "value": "Normal Eyebrows"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "I Eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chad Mouth"
+        },
+        {
+            "trait_type": "Layer",
+            "value": "Banana BG"
+        }
+    ]
+}

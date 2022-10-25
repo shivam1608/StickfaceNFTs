@@ -1,0 +1,21 @@
+{
+    "image": "ipfs://{*cid*}/31",
+    "attributes": [
+        {
+            "trait_type": "Eyebrows",
+            "value": "Relaxed Eyebrows"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Cross Eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sadge Mouth"
+        },
+        {
+            "trait_type": "Layer",
+            "value": "none"
+        }
+    ]
+}

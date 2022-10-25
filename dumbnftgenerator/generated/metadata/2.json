@@ -1,0 +1,21 @@
+{
+    "image": "ipfs://{*cid*}/2",
+    "attributes": [
+        {
+            "trait_type": "Eyebrows",
+            "value": "Abnormal Eyebrows"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curved Eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "UwU Mouth"
+        },
+        {
+            "trait_type": "Layer",
+            "value": "none"
+        }
+    ]
+}

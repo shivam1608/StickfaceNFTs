@@ -1,0 +1,29 @@
+
+    <svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="300" fill="#BED04C"/>
+    
+            
+    <circle cx="149.5" cy="151.6" r="93.5" fill="url(#paint0_linear_6_39)" stroke="black" stroke-width="4"/>
+    <defs>
+    <linearGradient id="paint0_linear_6_39" x1="150" y1="56.8" x2="92.3467" y2="229.76" gradientUnits="userSpaceOnUse">
+    <stop stop-color="white"/>
+    <stop offset="0.734375" stop-color="white"/>
+    <stop offset="1" stop-color="#C4C2C2"/>
+    </linearGradient>
+    </defs>
+    
+        
+    <path d="M143.133 37.0001C121.305 52.9465 112.816 50.6051 111.3 47.4412" stroke="black" stroke-width="3"/>
+    <path d="M169.873 43.3667L190.247 53.5534" stroke="black" stroke-width="3"/>
+    
+        
+    <path d="M136.055 98.16C137.308 153.982 130.834 176.566 127.44 180.88" stroke="black" stroke-width="10"/>
+    <path d="M193.663 94.4C195.274 156.142 186.95 181.122 182.587 185.893" stroke="black" stroke-width="10"/>
+    
+        
+    <path d="M120.5 203.5L127 206.25L133.5 209L137 210.5" stroke="black" stroke-width="2"/>
+    <path d="M162 209.433C156.209 208.463 150.505 207.046 145.253 205.438M145.253 205.438C130.417 200.895 119.197 194.827 119.862 193C112.299 201.482 115.54 209.433 116.621 209.433C132.287 220.035 142.012 216.678 142.552 215.794C146.874 209.963 145.433 205.709 145.253 205.438Z" stroke="black" stroke-width="2"/>
+    
+
+    </svg>
+    

@@ -1,0 +1,21 @@
+{
+    "image": "ipfs://{*cid*}/87",
+    "attributes": [
+        {
+            "trait_type": "Eyebrows",
+            "value": "Tensed Eyebrows"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Straight Eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Happy Mouth"
+        },
+        {
+            "trait_type": "Layer",
+            "value": "none"
+        }
+    ]
+}

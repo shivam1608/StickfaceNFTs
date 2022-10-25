@@ -1,0 +1,21 @@
+{
+    "image": "ipfs://{*cid*}/72",
+    "attributes": [
+        {
+            "trait_type": "Eyebrows",
+            "value": "Cool Eyebrows"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curved Eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chad Mouth"
+        },
+        {
+            "trait_type": "Layer",
+            "value": "none"
+        }
+    ]
+}

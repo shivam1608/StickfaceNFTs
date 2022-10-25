@@ -1,0 +1,14 @@
+{
+  "name": "dumbnftgenerator",
+  "version": "1.0.0",
+  "description": "The stupid nft art generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shivzee",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.31.0"
+  }
+}

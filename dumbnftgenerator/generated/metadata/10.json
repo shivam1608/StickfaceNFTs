@@ -1,0 +1,21 @@
+{
+    "image": "ipfs://{*cid*}/10",
+    "attributes": [
+        {
+            "trait_type": "Eyebrows",
+            "value": "Normal Eyebrows"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "I Eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "DeD Mouth"
+        },
+        {
+            "trait_type": "Layer",
+            "value": "none"
+        }
+    ]
+}
