@@ -6,6 +6,7 @@ i had time to do something so i did this as i wanted to own a NFT.
 ### Minting 
 - if you want stickface nft you can mint over here 
 https://stickfacenft.ml
+- deployed to testnet manage nfts on https://testnets.opeansea.io
 
 ### Preview
 <img src="preview.png" width="500" height="300">
