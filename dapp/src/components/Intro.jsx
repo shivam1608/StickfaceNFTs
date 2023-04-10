@@ -38,7 +38,7 @@ const Intro = () => {
         <div className="snap-x flex mt-12 w-full overflow-x-scroll scroll-smooth scrollbar-hide">
             {
               NFTDemos.map((v , i) => 
-                <img key={i} className='mx-2 snap-center' src={`/api/img/${v}`} alt={v} />
+                <img key={i} className='mx-2 snap-center' src={`https://bafybeienakpfmxsifchtyf2sfsk24qmlnl7rpxiuvf5wpb3sexr3dzulh4.ipfs.dweb.link/${v}.jpg`} alt={v} />
               )
             }
         </div>
